@@ -12,3 +12,6 @@ B&N Bookstore Spreadsheet:
 
 Copy Spreadsheet:
 ![spreadsheets](images/copiadora.png "Copy Spreadsheet.")
+
+Modeling for prediction - golf club store:
+![spreadsheets](images/golfe.png "Golf Club Store.")
