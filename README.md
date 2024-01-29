@@ -15,3 +15,10 @@ Copy Spreadsheet:
 
 Modeling for prediction - golf club store:
 ![spreadsheets](images/golfe.png "Golf Club Store.")
+
+Project - Natural Gas Co.:
+![spreadsheets](images/project-gas.png "Golf Club Store.")
+
+Visualization - Natural Gas Co.:
+
+![spreadsheets](images/gas-visualization.png "Golf Club Store.")
