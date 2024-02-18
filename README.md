@@ -31,6 +31,12 @@ Visualization - Natural Gas Co.:
 
 ## Linear Programming
 
-EMaximize the audience reach of an election campaign:
+Maximize the audience reach of an election campaign:
 
 ![spreadsheets](images/LP.png "Linear Programming.")
+
+### Transportation Problem
+
+Minimize the costs of an transportation problem:
+
+![spreadsheets](images/TP.png "Transportation Problem.")
